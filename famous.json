@@ -94,7 +94,7 @@
 	    "movies": ["The Impossible", "Spider-man", "Avengers"]
     } ,
 	
-   "Emma" : {
+   "emma" : {
         "full name" : "Emma Rose Roberts",
         "wikipedia" : "https://en.wikipedia.org/wiki/Emma_Roberts",
         "born" : 1991,
@@ -104,7 +104,7 @@
         "tv show" : ["American Horror Story", "Scream Queens"]
     } ,  
 	
-   "Adam" : {
+   "adam" : {
 	"full name": "Adam Driver",
 	"other name": "Kylo Ren",
 	"wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver"
@@ -113,7 +113,7 @@
 	"college_attended": "Julliard",
 	"tv show": "Girls",
 	"SNL_appearance": true
-}
+	}
 }  
 
 
