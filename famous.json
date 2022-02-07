@@ -123,7 +123,18 @@
         "university graduate" : true, 
         "most recent film" : "Little Women",
         "current tv show" : null
-    } 
+       },
+	
+    "Kaka" : {
+        "Full name" : "Ricardo Dos Santos",
+        "Other name" : "Kaka",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Kak%C3%A1",
+        "born" : "1982",
+        "place of birth" : "Gama, Brazil",
+        "heigh_cm" : 186,
+        "position" : "Attacking midfielder",
+        "tv show" : "null"
+    }
 }
 
 
