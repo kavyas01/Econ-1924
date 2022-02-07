@@ -107,13 +107,24 @@
    "adam" : {
 	"full name": "Adam Driver",
 	"other name": "Kylo Ren",
-	"wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver"
+	"wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver",
 	"born": 1983,
 	"place of birth": "San Diego, California",
 	"college_attended": "Julliard",
 	"tv show": "Girls",
 	"SNL_appearance": true
-	}
-}  
+	},
+
+    "watson" : {
+        "full name" : "Emma Charlotte Duerre Watson",
+        "place of birth" : "Paris, France", 
+        "age" : 31, 
+        "known for" : "Harry Potter Series", 
+        "university graduate" : true, 
+        "most recent film" : "Little Women",
+        "current tv show" : null
+    } 
+}
+
 
 
