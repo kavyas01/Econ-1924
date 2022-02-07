@@ -113,7 +113,19 @@
 	"college_attended": "Julliard",
 	"tv show": "Girls",
 	"SNL_appearance": true
-	},
+
+    },
+		
+   "james" : {
+	"full name": "James Gandolfini",
+	"other names": "Tony Soprano",
+	"wikipedia": "https://en.wikipedia.org/wiki/James_Gandolfini",
+	"born": 1961,
+	"death": 2013,
+	"place of birth": "Westwood, New Jersey",
+	"tv show": "The Sopranos",
+	"emmy winner": true
+   },
 
     "watson" : {
         "full name" : "Emma Charlotte Duerre Watson",
@@ -136,6 +148,5 @@
         "tv show" : "null"
     }
 }
-
 
 
