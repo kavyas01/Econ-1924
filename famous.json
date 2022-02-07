@@ -123,7 +123,16 @@
         "university graduate" : true, 
         "most recent film" : "Little Women",
         "current tv show" : null
-    } 
+    },
+    "john" : {
+	"full name": "John Mayer",
+	"musician": true,
+	"focus": ["Vocals", "Guitar"],
+	"born": 1977,
+	"place of birth": "Bridgeport, Connecticut",
+	"grammy awards": 7,
+	"associates": "Dead and Company",
+    },
 }
 
 
