@@ -125,7 +125,8 @@
         "grammys won": 11,
         "song writer" : true,
         "albums": ["Taylor Swift", "Fearless (Taylor's Version)", "Speak Now", "Red (Taylor's Version)", "1989", "Reputation", "Lover", "Folklore", "Evermore"],
-        "tv show" : "New Girl"
+        "tv show" : "New Girl",
+	"author": null
     } 
 }
 
