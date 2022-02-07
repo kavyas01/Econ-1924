@@ -107,12 +107,13 @@
    "adam" : {
 	"full name": "Adam Driver",
 	"other name": "Kylo Ren",
-	"wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver"
+	"wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver",
 	"born": 1983,
 	"place of birth": "San Diego, California",
 	"college_attended": "Julliard",
 	"tv show": "Girls",
 	"SNL_appearance": true
+
     },
 		
    "james" : {
@@ -124,7 +125,28 @@
 	"place of birth": "Westwood, New Jersey",
 	"tv show": "The Sopranos",
 	"emmy winner": true
-   }
-}  
+   },
+
+    "watson" : {
+        "full name" : "Emma Charlotte Duerre Watson",
+        "place of birth" : "Paris, France", 
+        "age" : 31, 
+        "known for" : "Harry Potter Series", 
+        "university graduate" : true, 
+        "most recent film" : "Little Women",
+        "current tv show" : null
+       },
+	
+    "Kaka" : {
+        "Full name" : "Ricardo Dos Santos",
+        "Other name" : "Kaka",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Kak%C3%A1",
+        "born" : "1982",
+        "place of birth" : "Gama, Brazil",
+        "heigh_cm" : 186,
+        "position" : "Attacking midfielder",
+        "tv show" : "null"
+    }
+}
 
 
