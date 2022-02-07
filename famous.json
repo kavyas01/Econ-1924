@@ -102,20 +102,6 @@
         "height_inches" : 62,
         "author" : false,
         "tv show" : ["American Horror Story", "Scream Queens"]
-    }   
-	
-    "joe" : {
-        "full name" : "Joseph Burrow",
-        "other names" : ["Joe Brrr", "Joey Franchise" ],
-        "wikipedia" : "https://https://en.wikipedia.org/wiki/Joe_Burrow",
-        "born" : 1996,
-        "place of birth" : "Athens, Ohio",
-        "height_inches" : 76,
-        "heisman trophy winner" : true,
-        "nfl team" : "Cincinnati Bengals"
-    }
-}    
-=======
     } ,  
             
     "adam" : {
@@ -150,7 +136,18 @@
         "place of birth": "Westwood, New Jersey",
         "tv show": "The Sopranos",
         "emmy winner": true
-     }
+     },
+
+    "joe" : {
+        "full name" : "Joseph Burrow",
+        "other names" : ["Joe Brrr", "Joey Franchise" ],
+        "wikipedia" : "https://https://en.wikipedia.org/wiki/Joe_Burrow",
+        "born" : 1996,
+        "place of birth" : "Athens, Ohio",
+        "height_inches" : 76,
+        "heisman trophy winner" : true,
+        "nfl team" : "Cincinnati Bengals"
+    } 
   
 }
-         main
+    
