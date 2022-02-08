@@ -170,7 +170,16 @@
 	"albums": ["Taylor Swift", "Fearless (Taylor's Version)", "Speak Now", "Red (Taylor's Version)", "1989", "Reputation", "Lover", "Folklore", "Evermore"],
 	"tv show": "New Girl",
 	"author": null
-   }
+   },
+		"lebron" : { 
+    "full name" : "Lebron James", 
+    "other names" : ["Bron", "King James"],
+    "wikipedia" : "https://en.wikipedia.org/wiki/LeBron_James",
+    "born" : 1984, 
+    "place of birth" : "Akron, Ohio", 
+    "height_inches" : 81, 
+    "author" : false, 
+    "basketball team" : "Los Angeles Lakers" }
   
 }
     
