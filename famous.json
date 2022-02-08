@@ -171,6 +171,17 @@
 	"tv show": "New Girl",
 	"author": null
    }
+	
+ "Daniel" : {
+	"full name": "Daniel Radcliffe",
+	"other name": "Harry Potter",
+	"wikipedia": "https://en.wikipedia.org/wiki/Daniel_Radcliffe",
+	"born": 1989,
+	"place of birth": "London, UK",
+	"height_inches": 65,
+	"tv show": null,
+	"SNL_appearance": true
+	}
   
 }
     
