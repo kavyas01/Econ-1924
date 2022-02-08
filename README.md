@@ -12,4 +12,9 @@ Watch this [video](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=
 - [X] Github basics
 - [X] Python/R skills
 
+## Projects:
+- [ ] CPI
+- [ ] Product differentiation
+- [ ] Demand estimation
+
 <img src='https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg'>
