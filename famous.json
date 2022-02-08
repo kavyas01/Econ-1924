@@ -147,7 +147,21 @@
         "height_inches" : 76,
         "heisman trophy winner" : true,
         "nfl team" : "Cincinnati Bengals"
-    } 
+    } ,     
+
+	"taylor": {
+		"full name": "Taylor Alison Swift",
+		"other names": ["The Music Industry", "Ms.Swift"],
+		"wikipedia": "https://en.wikipedia.org/wiki/Taylor_Swift",
+		"born": 1989,
+		"place of birth": "West Reading, Pennsylvania",
+		"height_inches": 71,
+		"grammys won": 11,
+		"song writer": true,
+		"albums": ["Taylor Swift", "Fearless (Taylor's Version)", "Speak Now", "Red (Taylor's Version)", "1989", "Reputation", "Lover", "Folklore", "Evermore"],
+		"tv show": "New Girl",
+		"author": null
+	}
   
 }
     
