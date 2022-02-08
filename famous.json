@@ -215,7 +215,18 @@
     "height_inches" : 81, 
     "author" : false, 
     "basketball team" : "Los Angeles Lakers" 
+  },
+  "john" : {
+	  "full name" : "John Mayer",
+	  "musician" : true,
+	  "focus" : ["Vocals", "Guitar"],
+	  "age_years" : 44,
+	  "place of birth" : "Bridgeport, Connecticut",
+	  "grammy awards" : 7,
+	  "associates" : "Dead and Company",
   }
+	  
+	  
   
 }
     
