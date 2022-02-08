@@ -170,6 +170,19 @@
 	"albums": ["Taylor Swift", "Fearless (Taylor's Version)", "Speak Now", "Red (Taylor's Version)", "1989", "Reputation", "Lover", "Folklore", "Evermore"],
 	"tv show": "New Girl",
 	"author": null
+   } ,
+
+   "Donald": {
+	"full name": "Donald McKinley Glover Jr",
+	"other names": ["Childish Gambino", "Troy Barnes"],
+	"wikipedia" : "https://en.wikipedia.org/wiki/Donald_Glover",
+	"born" : 1983,
+	"place of birth" : "Edwards, California",
+	"musician" : true,
+	"grammys" : 5,
+	"albums": ["Camp", "Because the Internet", "Awaken, My Love!", "3.15.20"],
+	"actor" : true,
+	"comedian" : true,
    }
   
 }
