@@ -180,7 +180,18 @@
 	"albums": ["Taylor Swift", "Fearless (Taylor's Version)", "Speak Now", "Red (Taylor's Version)", "1989", "Reputation", "Lover", "Folklore", "Evermore"],
 	"tv show": "New Girl",
 	"author": null
-   } ,
+
+   },
+	
+   "sidney" : {
+	"full name" : "Sidney Crosby",
+	"born" : 1987,
+	"place of birth" : "Halifax, Canada",
+	"sport" : "ice hockey",
+	"team" : "Pittsburgh Penguins",
+	"Stanley Cup Winner" : true,
+	"height_inches" : 71
+   },
 	
  "Daniel" : {
 	"full name": "Daniel Radcliffe",
@@ -216,6 +227,7 @@
     "author" : false, 
     "basketball team" : "Los Angeles Lakers" 
   },
+  
   "john" : {
 	  "full name" : "John Mayer",
 	  "musician" : true,
@@ -226,7 +238,5 @@
 	  "associates" : "Dead and Company",
   }
 	  
-	  
-  
 }
     
