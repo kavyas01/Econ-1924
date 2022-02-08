@@ -82,7 +82,15 @@
         "teams": ["Chicago Bulls", "Washington Wizards"],
         "author": false,
         "tv show": null
-    } 
-   
+    }, 
+   "dua" : {
+        "name" : "Dua Lipa",
+        "born" : 1995,
+        "place of birth" : "London, United Kingdom",
+        "occupation" : "singer-songwriter",
+        "albums" : ["Future Nostalgia", "Dua Lipa"],
+        "net worth" : 25000000,
+        "wikipedia" : "https://en.wikipedia.org/wiki/Dua_Lipa"
+    }
 }  
 
